@@ -1,0 +1,10 @@
+@font-face {
+    font-family: customLt;
+    src: url('../assets/fonts/Aeroport-Light.woff2');
+}
+@font-face {
+    font-family: customRg;
+    src: url('../assets/fonts/Aeroport-Medium.woff2');
+}
+.ltFont{font-family: customLt}
+.rgFont{font-family: customRg}

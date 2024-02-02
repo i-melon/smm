@@ -1,0 +1,18 @@
+h1{
+    font-family: customRg;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px; /* 100% */
+    letter-spacing: -1.056px;
+}
+.whiteInput{
+    display: flex;
+    height: 56px;
+    padding: 0px var(--Spacing-m, 12px);
+    align-items: center;
+    gap: 16px;
+    align-self: stretch;
+    border: 1px solid rgba(28, 28, 41, 0.12);
+    background: var(--Dark-D0, #FFF);
+}

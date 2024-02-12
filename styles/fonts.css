@@ -8,3 +8,24 @@
 }
 .ltFont{font-family: customLt}
 .rgFont{font-family: customRg}
+.subTitle{
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 118.182% */
+    letter-spacing: -0.22px;
+}
+.mainTitle{
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 115.385% */
+    letter-spacing: -0.52px;
+}
+.fs32{
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 100% */
+    letter-spacing: -0.96px;
+}

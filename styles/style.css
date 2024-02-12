@@ -12,3 +12,55 @@
         transform: rotate(360deg);
     }
 }
+.logoImg{
+    width: 28px;
+    height: 28px;
+}
+.circle{
+    width: 32px;
+    height: 32px;
+}
+.bottomBorder{
+    border-bottom: 1px solid rgba(28, 28, 41, 0.10);
+}
+.owl-theme .owl-dots .owl-dot.active span {
+    background: #1C1C29; /* Change this to the color you desire */
+}
+.owl-carousel.no-dots .owl-dots {
+    display: none !important;
+}
+.owl-carousel.w260 .owl-item.active {
+    width: 240px !important;
+    margin-right: 16px;/* Установите ширину в 240px */
+}
+
+
+
+.zolotoe{
+    background: linear-gradient(180deg, #CBE74F 0%, #74D641 100%);
+    height: 98%;
+}
+#colorChange1{
+    transition: all ease 15s;
+    transition-duration: 15s;
+}
+#colorChange2{
+    transition: all ease 15s;
+    transition-duration: 15s;
+}
+#colorChange3{
+    transition: all ease 15s;
+    transition-duration: 15s;
+}
+#colorChange4{
+    transition: all ease 15s;
+    transition-duration: 15s;
+}
+#colorChange5{
+    transition: all ease 15s;
+    transition-duration: 15s;
+}
+#colorChange6{
+    transition: all ease 15s;
+    transition-duration: 15s;
+}
